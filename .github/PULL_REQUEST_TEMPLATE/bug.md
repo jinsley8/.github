@@ -3,6 +3,9 @@
 ### Title
 ([Ticket#](fix): broken menu link on admin page)
 
+### Story
+Jira, Pivotal Tracker, (link to where the story you worked on lives)
+
 ### Summary
 (Summarize the bug encountered concisely)
 
