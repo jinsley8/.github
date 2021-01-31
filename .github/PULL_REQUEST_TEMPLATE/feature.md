@@ -3,6 +3,9 @@
 ### Title
 ([Ticket#](feat):[Epic Name] add claim damage and new claim pages)
 
+### Story
+Jira, Pivotal Tracker, (link to where the story you worked on lives)
+
 ### Summary
 (Summarize the feature concisely)
 
