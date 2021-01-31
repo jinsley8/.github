@@ -10,7 +10,7 @@ assignees: ''
 **Provide a general summary of the issue in the Title above**
 
 ## Current Behavior
-<!--- When describing a bug, tell us what happens instead of the expected behavior -->
+<!--- When describing a bug, tell us what happens instead of the expected behaviour -->
 
 ## Expected Behavior
 <!--- When describing a bug, tell us what should happen. -->
